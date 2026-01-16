@@ -1,0 +1,3 @@
+name = "slotgame-certificate"
+main = "index.js"
+compatibility_date = "2025-09-18"
