@@ -1,0 +1,2 @@
+# smartgameedu-certificate
+slotgameedu-certificate
